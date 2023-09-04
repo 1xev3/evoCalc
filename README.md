@@ -1,5 +1,5 @@
 ===
-Python calculator with version checker
+Python calculator
 
 It's just simple code for evoacademy.
 
